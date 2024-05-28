@@ -1,0 +1,4 @@
+# ninja log v5
+1	910	1716888065611786256	CMakeFiles/jni.dir/native-lib.cpp.o	983d7c84e088cb68
+1	1073	1716888065774325924	CMakeFiles/jni.dir/JNIUtils.cpp.o	cb656a94549ed3bc
+1073	1200	1716888065874688397	/System/Volumes/Data/Developer/ws/2024/study/StudyJNIcmake/app/build/intermediates/cxx/Debug/5y344e1r/obj/x86_64/libjni.so	e16700990b9c3e86

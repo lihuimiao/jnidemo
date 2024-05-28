@@ -1,0 +1,4 @@
+# ninja log v5
+2	1043	1716888061249293206	CMakeFiles/jni.dir/native-lib.cpp.o	9ebba28142fe20f1
+1	1315	1716888061488997922	CMakeFiles/jni.dir/JNIUtils.cpp.o	f8de3855f463a233
+1315	1451	1716888061626669146	/System/Volumes/Data/Developer/ws/2024/study/StudyJNIcmake/app/build/intermediates/cxx/Debug/5y344e1r/obj/armeabi-v7a/libjni.so	bc67531593d61b26

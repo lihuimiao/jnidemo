@@ -1,0 +1,3 @@
+/System/Volumes/Data/Developer/ws/2024/study/StudyJNIcmake/app/.cxx/Debug/5y344e1r/x86_64/CMakeFiles/jni.dir
+/System/Volumes/Data/Developer/ws/2024/study/StudyJNIcmake/app/.cxx/Debug/5y344e1r/x86_64/CMakeFiles/edit_cache.dir
+/System/Volumes/Data/Developer/ws/2024/study/StudyJNIcmake/app/.cxx/Debug/5y344e1r/x86_64/CMakeFiles/rebuild_cache.dir

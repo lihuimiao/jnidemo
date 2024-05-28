@@ -1,0 +1,4 @@
+ninja: Entering directory `/System/Volumes/Data/Developer/ws/2024/study/StudyJNIcmake/app/.cxx/Debug/5y344e1r/x86_64'
+[1/3] Building CXX object CMakeFiles/jni.dir/native-lib.cpp.o
+[2/3] Building CXX object CMakeFiles/jni.dir/JNIUtils.cpp.o
+[3/3] Linking CXX shared library /System/Volumes/Data/Developer/ws/2024/study/StudyJNIcmake/app/build/intermediates/cxx/Debug/5y344e1r/obj/x86_64/libjni.so

@@ -1,0 +1,4 @@
+/Users/lee/Library/Android/sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /System/Volumes/Data/Developer/ws/2024/study/StudyJNIcmake/app/.cxx/Debug/5y344e1r/x86_64 \
+  jni

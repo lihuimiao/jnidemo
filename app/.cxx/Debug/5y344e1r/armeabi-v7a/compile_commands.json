@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/System/Volumes/Data/Developer/ws/2024/study/StudyJNIcmake/app/.cxx/Debug/5y344e1r/armeabi-v7a",
+  "command": "/Users/lee/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi24 --sysroot=/Users/lee/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Djni_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/jni.dir/JNIUtils.cpp.o -c /System/Volumes/Data/Developer/ws/2024/study/StudyJNIcmake/app/src/main/cpp/JNIUtils.cpp",
+  "file": "/System/Volumes/Data/Developer/ws/2024/study/StudyJNIcmake/app/src/main/cpp/JNIUtils.cpp"
+},
+{
+  "directory": "/System/Volumes/Data/Developer/ws/2024/study/StudyJNIcmake/app/.cxx/Debug/5y344e1r/armeabi-v7a",
+  "command": "/Users/lee/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi24 --sysroot=/Users/lee/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Djni_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/jni.dir/native-lib.cpp.o -c /System/Volumes/Data/Developer/ws/2024/study/StudyJNIcmake/app/src/main/cpp/native-lib.cpp",
+  "file": "/System/Volumes/Data/Developer/ws/2024/study/StudyJNIcmake/app/src/main/cpp/native-lib.cpp"
+}
+]
