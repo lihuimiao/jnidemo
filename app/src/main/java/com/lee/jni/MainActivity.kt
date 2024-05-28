@@ -31,7 +31,7 @@ class MainActivity : AppCompatActivity() {
     /** 测试git000000案例三等奖发拉升阶段111111阿斯蒂芬 切换到41111111111156dev分支*/
     
     private fun testJNI() {
-        /** 调用jni方法并返回求和结果2*/
+        /** 调用jni方法并返回求和结果21111*/
         val sum = JNIUtils().calculate(100, 200)
         println("LEE-> sum :$sum")
         binding.sampleText.text = sum.toString()
