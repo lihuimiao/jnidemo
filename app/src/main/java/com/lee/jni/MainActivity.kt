@@ -28,7 +28,7 @@ class MainActivity : AppCompatActivity() {
         val p = JNIUtils().createPerson("小丽",30)
         println("LEE-> p.name : ${p.name},p.age:${p.age}")
     }
-    /** 测试git*/
+    /** 测试git000000*/
     
     private fun testJNI() {
         /** 调用jni方法并返回求和结果*/
